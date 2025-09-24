@@ -1,0 +1,5 @@
+streamlit
+supabase>=2,<3
+python-dotenv
+pandas
+numpy
